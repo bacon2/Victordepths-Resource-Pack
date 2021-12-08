@@ -1,0 +1,146 @@
+{
+	"victordepths":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:victordepths",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			},
+			{
+			"name":"victordepths:victordepths_piano",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			},
+			{
+			"name":"minecraft:music_disc/stal",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	},
+	"arena":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:arena",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	},
+	"sanctuary":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:steppig",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	},
+	"forebodium":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:forebodium",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	},
+	"underworld":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:underworld",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			},
+			{
+			"name":"minecraft:music_disc/11",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	},
+	"weatherkeep":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:weatherkeep",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			},
+			{
+			"name":"victordepths:weatherkeep_sleetclouds",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	},
+	"aweclouds":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:aweclouds",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			},
+			{
+			"name":"minecraft:music_disc/cat",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	},
+	"uncharted":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:uncharted",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			}
+		]
+	}
+}
