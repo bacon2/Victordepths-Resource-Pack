@@ -19,7 +19,7 @@
 			"preload": false
 			},
 			{
-			"name":"minecraft:music_disc/stal",
+			"name":"minecraft:music_disc_stal",
 			"volume": 1.0,
 			"pitch": 1.0,
 			"weight": 1,
@@ -51,6 +51,14 @@
 			"weight": 1,
 			"stream": true,
 			"preload": false
+			},
+			{
+				"name":"victordepths:its_alright",
+				"volume": 1.0,
+				"pitch": 1.0,
+				"weight": 1,
+				"stream": true,
+				"preload": false
 			}
 		]
 	},
@@ -64,6 +72,35 @@
 			"weight": 1,
 			"stream": true,
 			"preload": false
+			},
+			{
+				"name":"victordepths:desert_drive",
+				"volume": 1.0,
+				"pitch": 1.0,
+				"weight": 1,
+				"stream": true,
+				"preload": false
+			}
+		]
+	},
+	"great_aquifer":{
+		"replace":false,
+		"sounds": [
+			{
+			"name":"victordepths:great_aquifer",
+			"volume": 1.0,
+			"pitch": 1.0,
+			"weight": 1,
+			"stream": true,
+			"preload": false
+			},
+			{
+				"name":"minecraft:music_disc_wait",
+				"volume": 1.0,
+				"pitch": 1.0,
+				"weight": 1,
+				"stream": true,
+				"preload": false
 			}
 		]
 	},
@@ -79,12 +116,20 @@
 			"preload": false
 			},
 			{
-			"name":"minecraft:music_disc/11",
+			"name":"minecraft:music_disc_11",
 			"volume": 1.0,
 			"pitch": 1.0,
 			"weight": 1,
 			"stream": true,
 			"preload": false
+			},
+			{
+				"name":"victordepths:creeper_forest",
+				"volume": 1.0,
+				"pitch": 1.0,
+				"weight": 1,
+				"stream": true,
+				"preload": false
 			}
 		]
 	},
@@ -121,12 +166,20 @@
 			"preload": false
 			},
 			{
-			"name":"minecraft:music_disc/cat",
+			"name":"minecraft:music_disc_cat",
 			"volume": 1.0,
 			"pitch": 1.0,
 			"weight": 1,
 			"stream": true,
 			"preload": false
+			},
+			{
+				"name":"victordepths:awecloud_peaks",
+				"volume": 1.0,
+				"pitch": 1.0,
+				"weight": 1,
+				"stream": true,
+				"preload": false
 			}
 		]
 	},
